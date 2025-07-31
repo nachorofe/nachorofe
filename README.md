@@ -1,9 +1,6 @@
-## Hi there 👋
+## Hola 👋
 
-<!--
-**nachorofe/nachorofe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Mi nombre es Ignacio Rodríguez y soy desarrollador full-stack con experiencia previa como autónomo en diseño web, marketing digital y optimización seo.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Python](https://img.shields.io/badge/Python-ffffff?logo=python&style=flat&color=ffffff&logoColor=3776AB)
